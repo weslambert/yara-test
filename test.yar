@@ -6,6 +6,7 @@ rule TestRule {
         $a = "test"
         $b = "this"
         $c = "rule"
+        $d = "again"
     condition:
         all of them
 }
