@@ -1,4 +1,4 @@
-rule TestRule {
+rule TestRule2 {
     meta:
         author = "Wes Lambert"
         description = "Test rule"
